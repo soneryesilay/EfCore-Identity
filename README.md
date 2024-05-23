@@ -1,4 +1,4 @@
-# EntityFrameworkCore-Identity
+# EntityFrameworkCore-Identity Kütüphanesi
 
 ## Proje İçeriği
 - Asp.net core 8
