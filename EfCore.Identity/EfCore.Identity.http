@@ -1,0 +1,6 @@
+@EfCore.Identity_HostAddress = http://localhost:5166
+
+GET {{EfCore.Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
